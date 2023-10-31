@@ -21,6 +21,7 @@ Repositório para armasenar resumos sobre Git e GitHub do bootcamp **Potência T
 |clear (ou ctrl+l)| limpa o console |
 |cd  /caminho/ | Ir até diretório especificado|
 |mkdir nome-do-diretório | Criar um diretório com o nome especificado |
+|git status | mostra informações sobre o Repositório atual |
 |git config | Permite diversas configurações do GIT |
 |ls | lista os arquivos no diretório selecionado |
 |cat nome-do-arquivo | mostra o conteudo do arquivo selecionado |
