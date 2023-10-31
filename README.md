@@ -27,6 +27,11 @@ Repositório para armasenar resumos sobre Git e GitHub do bootcamp **Potência T
 |cat nome-do-arquivo | mostra o conteudo do arquivo selecionado |
 |git remote add origin URL | Adiciona um Repositório local a um Repositório remoto |
 |git clone URL nome-opcional-da-pasta | Clona o Repositório remoto para o diretório local |
+|catch | cria um arquivo no diretório selecionado |
+|git add | adiciona as modificações do repositório a area de preparação|
+|git commit | salva as alterações adicionadas na area de prearação em um novo commit|
+|git push REMOTE-NAME BRANCH-NAME| salva o commit |
+
 
 ### 🤦🏻‍♂️ Desabafo
 Até o momento está sendo uma ótima experiência, estou dando meu melhor para aprender da melhor forma possivel os assundos dessa que é uma área pela qual sou apaixonado. Apesar de ter pouco tempo disponível por causa do meu trabalho numa fábrica de vidro, onde carrego pouco mais de uma dezena de tonelada de vidro todos os dias (sem exageros), torna essa rotina trabalho - estudo algo extremamente cansativo e desgastante, mas eu entendo que não adianta fazer tudo igual todo dia e querer que as coisas mudem. Vou dar meu melhor para alcançar o final desse bootcamp e dar meu primeiro passo completo para entrar nessa área. Esse desabafo é para mim mesmo, para me motivar, quase como um diário, até porque esse Repositório vai ficar privado, provavelmente quando eu finalmente conseguir um emprego na área, eu faça um post em algum lugar contando um pouco da minha história, vamos ver..
